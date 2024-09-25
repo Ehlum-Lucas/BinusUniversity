@@ -28,3 +28,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+"""
+the main functions work well! just missing some error handling and input validation. this just means when the user inputs something they shouldnt be inputting (such as when the code asks for a number
+but the user instead puts in a string), the code shouldnt just crash, but instead prints out an error message. same with input validation, the code should let the user know that their input has been
+accepted and give appropriate feedback like "Item added successfully!", something like that. but overall i think the code is great!
+"""
