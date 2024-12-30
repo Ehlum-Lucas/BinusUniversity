@@ -15,8 +15,8 @@ To run this project, you need to have Python installed. Follow the steps below t
 ### Step 1: Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/final-project.git
-cd final-project
+git clone https://github.com/Ehlum-Lucas/BinusUniversity.git
+cd BinusUniversity/Algorithm\&Programming/FinalProject/
 ```
 
 ### Step 2: Install Dependencies
